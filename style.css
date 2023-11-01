@@ -1,0 +1,26 @@
+.pickleRick {
+    border: 3px black solid;
+}
+
+body {
+    background-color: orange;
+}
+
+h1{
+    text-align: center;
+    background-color: dodgerblue;
+    font-family: Georgia;
+}
+
+h4 {
+    color: indigo;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
